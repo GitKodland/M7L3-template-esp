@@ -1,4 +1,4 @@
-# Import
+# Importar
 from flask import Flask, render_template, request, redirect
 # Conexión de la biblioteca de bases de datos
 from flask_sqlalchemy import SQLAlchemy
